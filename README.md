@@ -25,7 +25,7 @@ html>
    </head>
 	
    <body>
-       <img src="logo.png" />
+       
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
  <tr>
            <th colspan="3">Reference number:22009434</th>
@@ -113,7 +113,6 @@ html>
 
 
 # OUPUT
-<img src="logo.png" />
 ![OUTPUT](http://jayasri.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR

@@ -116,7 +116,7 @@ bgcolor="silver" align="center">
 
 # OUPUT
 ![OUTPUT](http://jayasri.student.saveetha.in:8000/static/images/out.png?raw=true)
-![OUTPUT](http://jayasri.student.saveetha.in:8000/static/images/out.png?raw=true)
+
 
 
 # HTML VALIDATOR

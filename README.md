@@ -18,98 +18,100 @@ Execute the program
 
 # CODE
 ...
-html>
 
-   <head>
-      <title>TIME TABLE</title>
-   </head>
-	
-   <body>
-       
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
- <tr>
-           <th colspan="3">Reference number:22009434</th>
-           <th colspan="3">Name:JAYASRI.D</th>
-           <th colspan="2">Dept:AI ML</th></tr>
-         <tr>
-            <th colspan="8">TIME TABLE</th>
-
-         </tr>
-         
-          <img src="logo.png" />                                    
-       
-         <tr>
-            <th>DAYS</th>
-            <th>1 (8:00 AM TO 9:00 AM)</th>
-            <th>2 (9:00 AM TO 10:00 AM)</th>
-            <th>3 (10:00 AM TO 11:00 AM)</th>
-             <th>4 (11:00 AM TO 12:00 PM)</th>
-            <th rowspan="5">Lunch Break (12:00 PM TO 1:00 PM)</th>
-            <th>5 (1:00 PM TO 2:00 PM)</th>
-            <th>6 (2:00 PM TO 3:00 PM)</th>
-         </tr>
-         <tr>
-             <td>MONDAY</td>
-             <td>Soft Skills</td>
-             <td>Soft Skills</td>
-             <td>Linear Algebra Laboratory</td>
-             <td>Linear Algebra Laboratory</td>
-             <td>Mathematics for Artificial Intelligence</td>
-             <td>Mathematics for Artificial Intelligence</td>
-         </tr>
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<img src="logo.png" alt="LOGO">
+<table border = "2" cellspacing="2" bordercolor="blue"
+bgcolor="silver" align="center">
 <tr>
-             <td>TUESDAY</td>
-             <td>Web Technology Laboratory</td>
-             <td>Web Technology Laboratory</td>
-             <td>Engineering Design and Modeling</td>
-             <td>Engineering Design and Modeling</td>
-             <td>Engineering Mechanics and Product Development</td>
-             <td>Engineering Mechanics and Product Development</td>
-         </tr>
-  <tr>
-             <td>WEDNESDAY</td>
-             <td>Fundamentals of Web Technology</td>
-             <td>Fundamentals of Web Technology</td>
-             <td>Python Programming</td>
-             <td>Python Programming</td>
-             <td>Environmental Science</td>
-             <td>Environmental Science</td>
-         </tr>
-         <tr>
-             <td>THURSDAY</td>
-             <td>Engineering Mechanics and Product Development</td>
-             <td>Engineering Mechanics and Product Development</td>
-             <td>Python Progamming</td>
-             <td>Python Programming</td>
-             <td>Engineering Design and Modeling</td>
-             <td>Engineering Design and Modeling</td>
-         </tr>
+<th colspan="8">TIME TABLE</th>
+</tr>
+<th colspan=2>Reference Number:</th>
+<th colspan=2>22009434</th>
+<th colspan=2>Name:</th>
+<th colspan=2>JAYASRI.D</th>
+31/12/22, 23:12Firefox
+2 of 4
+</tr>
 <tr>
-             <td>FRIDAY</td>
-             <td>Fundamentals of Webtechnology</td>
-             <td>Fundamentals of Webtechnology</td>
-             <td>Mathematics for Artificial Intelligence</td>
-             <td>Mathematics for Artificial Intelligence</td>
-             <td>Mentoring</td>
-             <td align="center">-</td>
-             <td align="center">-</td>
-         </tr>
-      </table>
-      
-      <br>19EY701-Soft Skills-Ms.Sneha Priya P</br>
-<br>19MA221-Linear Algebra Laboratory-Ms.Archana S H</br>
-<br>19MA220-Mathematics for Artificial Intelligence-Ms.Archana S H</br>
-<br>19AI402-Web Technology Laboratory-Mr.Karthi Govindharaju</br>
-<br>19AI302-Engineering Design and Modeling-Mr.Sridhar S</br>
-<br>19AI303-Engineering Mechanics and Product Development-Mr.Sridhar S</br>
-<br>19AI401-Fundamentals of Web Technology-Mr.Karthi Govindharaju</br>
-<br>19AI301-Python Programming-Ms.Archana S H</br>
-<br>19MC802-Environmental Science-Ms.Vijaya K.S</br>
-<br>ECA051-AD-Mentoring-Ms.Niha K</br>
-      
-   </body>
+<th>DAYS</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th rowspan="8">lunch break</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+<tr>
+<td>MONDAY</td>
+<td>Break</td>
+<td>Break</td>
+<td>19AI302/Muthukumar</td>
+<td>19AI302/Muthukumar</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>TUESDAY</td>
+<td>19AI414/GowriGanesh</td>
+<td>19AI414/GowriGanesh</td>
+<td>19MA220/Jaba Jasphin</td>
+<td>19MA220/Jaba Jasphin</td>
+<td>19EE404/VasanthKumar</td>
+<td>19EE404/VasanthKumar</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+<tr>
+<td>WEDNESDAY</td>
+<td>19AI302/Muthukumar</td>
+<td>19AI302/Muthukumar</td>
+<td>19MA221/Jaba Jasphin</td>
+<td>19MA221/Jaba Jasphin</td>
+<td>19EE404/VasanthKumar</td>
+<td>19EE404/VasanthKumar</td>
+<td>19AI303/VigneshSekar</td>
+<td>19AI303/VigneshSekar</td>
+</tr>
+<tr>
+<td>THURSDAY</td>
+<td>Break</td>
+<td>Break</td>
+<td>19AI414/GowriGanesh</td>
+<td>19AI414/GowriGanesh</td>
+<td>19AI303/VigneshSekar</td>
+<td>19AI303/VigneshSekar</td>
+<td>19MA220/Jaba Jasphin</td>
+<td>19MA220/Jaba Jasphin</td>
+</tr>
+<tr>
+<td>FRIDAY</td>
+<td>19AI414/GowriGanesh</td>
+<td>19AI414/GowriGanesh</td>
+<td>19AI301/Jaba Jasphin</td>
+<td>19AI301/Jaba Jasphin</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+<td>Break</td>
+</tr>
+</table>
+<p align="center">1.19AI414-Fundamentals of web application development</p>
+<p align="center">2.19MA220-Mathematics for Artificial Intelligence</p>
+<p align="center">3.19MA221-Linear Algebra Laboratory</p>
+<p align="center">4.19AI301-Python Programming</p>
+<p align="center">5.19AI302-Engineering Design and Modelling</p>
+<p align="center">6.19AI303-Engineering Mechanics and Product Development</p>
+<p align="center">7.19EE404-Digital Electrons</p>
+</body>
 </html>
-...
 
 
 # OUPUT

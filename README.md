@@ -36,7 +36,7 @@ html>
 
          </tr>
          
-                                             
+          <img src="logo.png" />                                    
        
          <tr>
             <th>DAYS</th>
@@ -119,4 +119,4 @@ html>
 ![HTML VALIDATOR](http://jayasri.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT 
-the prigram fir creating slot timetable is completed succesfully 
+the prigram fOr creating slot timetable is completed succesfully.

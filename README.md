@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-...
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -112,7 +112,7 @@ bgcolor="silver" align="center">
 <p align="center">7.19EE404-Digital Electrons</p>
 </body>
 </html>
-
+```
 
 # OUPUT
 ![OUTPUT](http://jayasri.student.saveetha.in:8000/static/images/out.png?raw=true)

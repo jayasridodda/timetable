@@ -25,7 +25,7 @@ html>
    </head>
 	
    <body>
-       
+       <img src="logo.png" />
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
  <tr>
            <th colspan="3">Reference number:22009434</th>
@@ -36,8 +36,8 @@ html>
 
          </tr>
          
-                                                 
-         <img src="logo.png" />
+                                             
+       
          <tr>
             <th>DAYS</th>
             <th>1 (8:00 AM TO 9:00 AM)</th>

@@ -25,7 +25,7 @@ html>
    </head>
 	
    <body>
-       <img src="logo.png" />
+       
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
  <tr>
            <th colspan="3">Reference number:22009434</th>
@@ -37,7 +37,7 @@ html>
          </tr>
          
                                                  
-         
+         <img src="logo.png" />
          <tr>
             <th>DAYS</th>
             <th>1 (8:00 AM TO 9:00 AM)</th>
@@ -95,7 +95,7 @@ html>
              <td align="center">-</td>
          </tr>
       </table>
-      <img src="logo.png" />
+      
       <br>19EY701-Soft Skills-Ms.Sneha Priya P</br>
 <br>19MA221-Linear Algebra Laboratory-Ms.Archana S H</br>
 <br>19MA220-Mathematics for Artificial Intelligence-Ms.Archana S H</br>

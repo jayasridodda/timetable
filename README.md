@@ -113,6 +113,7 @@ html>
 
 
 # OUPUT
+<img src="logo.png" />
 ![OUTPUT](http://jayasri.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
